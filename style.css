@@ -1,4 +1,19 @@
 div {
-    border: 1px dotted black;
     padding: 10px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+p {
+    font-family: cursive;
 }
